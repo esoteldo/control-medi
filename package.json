@@ -22,9 +22,8 @@
   "build": {
     "publish": [{
         "provider": "github",
-        "owner": "",
-        "repo": "",
-        "token": ""
+        "owner": "esoteldo",
+        "repo": "control-medi"
     }]},
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
